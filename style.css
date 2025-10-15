@@ -19,3 +19,12 @@ h1{text-align: center;
 }
 .ingredients{flex: 1: max-width 250px;}
 .method{flex: 2;}
+
+.linkbutton{
+  color: #5a3e2b;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  text-decoration: underline;
+  background-color: tan;
+  border-radius: 15px;
+}
