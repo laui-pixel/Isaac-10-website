@@ -28,3 +28,11 @@ h1{text-align: center;
   background-color: tan;
   border-radius: 15px;
 }
+.potatoe1{
+  border-radius: 15px;
+  float: none;
+  border-style: solid;
+}
+.recipeimage{
+  border-radius: 15px;
+}
